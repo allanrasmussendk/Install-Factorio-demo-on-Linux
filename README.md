@@ -4,7 +4,7 @@ A script that will install the latest [Factorio](https://factorio.com/) demo ver
 This script can be run in two ways: Full installation and standalone installation.
 
 ## Full installation
-1. Download the script
+1. Download the [script](Install%20Factorio%20demo%20on%20Linux.sh)
 2. Run the following commands in a terminal
    1. cd &lt;Download folder&gt;
       - Note: This folder must be writable
@@ -15,7 +15,7 @@ This script can be run in two ways: Full installation and standalone installatio
 
 ## Standalone installation
 1. Create a folder where Factorio should be installed
-2. Download the script and move it to the new folder
+2. Download the [script](Install%20Factorio%20demo%20on%20Linux.sh) and move it to the new folder
 3. Run the following commands in a terminal
    1. chmod +x "./Install Factorio demo on Linux.sh"
    2. "./Install Factorio demo on Linux.sh"
